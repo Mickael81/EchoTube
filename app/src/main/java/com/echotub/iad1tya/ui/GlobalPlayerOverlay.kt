@@ -712,7 +712,7 @@ fun GlobalPlayerOverlay(
                                     showDlnaDialog = true
                                 },
                                 isCasting = DlnaCastManager.isCasting,
-                                isLive = !playerUiState.hlsUrl.isNullOrEmpty(),
+                                isLive = playerUiState.streamInfo?.streamType == org.schabi.newpipe.extractor.stream.StreamType.LIVE_STREAM,
                                 onSleepTimerClick = { screenState.showSleepTimerSheet = true },
                                 isSleepTimerActive = com.echotube.iad1tya.player.SleepTimerManager.isActive,
                                 showRemainingTime = showRemainingTime,

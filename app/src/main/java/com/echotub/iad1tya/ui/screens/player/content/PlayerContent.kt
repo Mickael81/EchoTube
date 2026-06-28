@@ -266,7 +266,7 @@ fun PlayerContent(
                 com.echotube.iad1tya.player.CastHelper.showCastPicker(context)
             },
             isCasting = com.echotube.iad1tya.player.CastHelper.isCasting(context),
-            isLive = !uiState.hlsUrl.isNullOrEmpty(),
+            isLive = uiState.streamInfo?.streamType == org.schabi.newpipe.extractor.stream.StreamType.LIVE_STREAM,
             onSleepTimerClick = { screenState.showSleepTimerSheet = true },
             isSleepTimerActive = com.echotube.iad1tya.player.SleepTimerManager.isActive,
             showRemainingTime = showRemainingTime,
