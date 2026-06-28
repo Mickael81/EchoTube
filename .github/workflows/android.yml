@@ -39,3 +39,9 @@ jobs:
       env:
         POTOKEN_GOOGLE_API_KEY: ${{ secrets.POTOKEN_GOOGLE_API_KEY }}
       run: ./gradlew assembleGithubRelease
+
+    - name: Upload APK Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: EchoTube-Release-APK
+        path: app/build/outputs/apk/github/release/*.apk
