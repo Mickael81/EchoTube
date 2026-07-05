@@ -18,9 +18,9 @@
     <string name="library_history_label">Historique</string>
     <string name="library_playlists_label">Playlists</string>
     <string name="library_music_playlists_label">Playlists Musicales</string>
-    <string name="library_music_playlists_subtitle">Your music collections</string>
-    <string name="library_liked_videos_label">Liked Videos</string>
-    <string name="library_saved_shorts_label">Saved Shorts</string>
+    <string name="library_music_playlists_subtitle">Vos Collections Musicales</string>
+    <string name="library_liked_videos_label">Vidéos Appréciées</string>
+    <string name="library_saved_shorts_label">Shorts Enregistrées</string>
     <string name="library_watch_later_label">Watch Later</string>
     <string name="library_downloads_label">Downloads</string>
     <string name="library_settings_data_header"><![CDATA[Settings & Data]]></string>
