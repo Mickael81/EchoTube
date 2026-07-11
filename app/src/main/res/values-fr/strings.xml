@@ -397,13 +397,13 @@
     <string name="appearance_applied_toast">Appliqué : %1$s</string>
 
     <!-- App Icon Picker -->
-    <string name="app_icon_picker_subtitle">Choose a launcher icon style. The change takes effect immediately and the launcher will briefly refresh.</string>
-    <string name="app_icon_picker_warning">⚠ Heads up: switching icons uses an Android system mechanism that may briefly remove the app shortcut from your home screen. Long-press the launcher to add it back if needed.</string>
-    <string name="app_icon_apply_toast">Icon updated — your launcher will refresh</string>
-    <string name="icon_name_flow_red">EchoTube Red</string>
-    <string name="icon_name_amoled">AMOLED Dark</string>
+    <string name="app_icon_picker_subtitle">Choisissez un style d\'icône pour le lanceur. La modification prend effet immédiatement et le lanceur s\'actualise brièvement.</string>
+    <string name="app_icon_picker_warning">⚠ Attention : la modification des icônes fait appel à un mécanisme du système Android qui peut faire disparaître brièvement le raccourci de l\'application de votre écran d\'accueil. Appuyez longuement sur le lanceur d\'applications pour le rajouter si nécessaire.</string>
+    <string name="app_icon_apply_toast">L\'icône a été mise à jour — votre lanceur va s\'actualiser</string>
+    <string name="icon_name_flow_red">EchoTube Rouge</string>
+    <string name="icon_name_amoled">AMOLED Sombre</string>
     <string name="icon_name_monochrome">Monochrome</string>
-    <string name="icon_name_ghost">Ghost</string>
+    <string name="icon_name_ghost">Fantôme</string>
     <string name="icon_name_dynamic">Material You</string>
 
     <!-- Player Appearance -->
