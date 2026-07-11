@@ -310,7 +310,7 @@
     <string name="settings_reset_everything">Réinitialiser Brain</string>
     <string name="settings_analyzing_interactions">Analyse de vos interactions...</string>
     <string name="settings_view_analytics">Consulter les statistiques</string>
-    <string name="settings_header_appearance">Aspect</string>
+    <string name="settings_header_appearance">Apparence</string>
     <string name="settings_header_content_playback">Contenu &amp; Lecture</string>
     <string name="settings_header_data_management">Gestion des données</string>
     <string name="settings_header_about">À propos</string>
@@ -386,15 +386,15 @@
 
     <!-- Appearance Screen -->
     <string name="appearance_title">Apparence</string>
-    <string name="appearance_subtitle">Personalize your EchoTube experience</string>
-    <string name="appearance_current_theme">CURRENT THEME</string>
-    <string name="appearance_category_all">All</string>
-    <string name="appearance_category_light">Light</string>
-    <string name="appearance_category_dark">Dark</string>
-    <string name="appearance_category_special">Special</string>
-    <string name="appearance_themes_count_all">%1$d themes</string>
-    <string name="appearance_themes_count_filtered">%1$d %2$s themes</string>
-    <string name="appearance_applied_toast">Applied: %1$s</string>
+    <string name="appearance_subtitle">Personnalisez votre expérience EchoTube</string>
+    <string name="appearance_current_theme">THÈME ACTUEL</string>
+    <string name="appearance_category_all">Tout</string>
+    <string name="appearance_category_light">Clair</string>
+    <string name="appearance_category_dark">Sombre</string>
+    <string name="appearance_category_special">Spécial</string>
+    <string name="appearance_themes_count_all">%1$d thèmes</string>
+    <string name="appearance_themes_count_filtered">%1$d %2$s thèmes</string>
+    <string name="appearance_applied_toast">Appliqué : %1$s</string>
 
     <!-- App Icon Picker -->
     <string name="app_icon_picker_subtitle">Choose a launcher icon style. The change takes effect immediately and the launcher will briefly refresh.</string>
