@@ -279,6 +279,7 @@
     <string name="tab_live">En direct</string>
     <string name="tab_playlists">Playlists</string>
     <string name="tab_about">À propos</string>
+    <string name="end_of_queue">Fin de la file d\'attente</string>
     <string name="no_videos_found">Aucune vidéo trouvée</string>
     <string name="no_shorts_found">Aucun short trouvé</string>
     <string name="no_playlists_found">Aucune playlist trouvée</string>
@@ -491,32 +492,32 @@
     <string name="theme_desc_gunmetal">Avant-garde industrielle</string>
 
     <!-- Content Settings -->
-    <string name="content_settings_title">Content Settings</string>
-    <string name="content_settings_header_display">Display</string>
-    <string name="content_settings_header_home_layout">Home Layout</string>
-    <string name="content_settings_home_layout_title">Home Display Mode</string>
-    <string name="content_settings_home_layout_subtitle">Choose how videos are displayed on the home screen</string>
-    <string name="content_settings_layout_grid">Grid</string>
-    <string name="content_settings_layout_list">List</string>
-    <string name="content_settings_grid_size_title">Grid Item Size</string>
-    <string name="content_settings_grid_size_subtitle">Controls the size of album art and content cards</string>
-    <string name="content_settings_grid_big_title">Big</string>
-    <string name="content_settings_grid_big_desc">Larger thumbnails</string>
-    <string name="content_settings_grid_small_title">Small</string>
-    <string name="content_settings_grid_small_desc">Compact view</string>
-    <string name="content_settings_header_preview">Preview</string>
-    <string name="content_settings_preview_album_art">Album Art Preview</string>
-    <string name="content_settings_preview_big">Big - 128dp thumbnails</string>
-    <string name="content_settings_preview_small">Small - 104dp thumbnails</string>
-    <string name="content_settings_dynamic_components">Dynamic Components</string>
-    <string name="settings_show_related_videos_title">Show related videos</string>
-    <string name="settings_show_related_videos_subtitle">Display related videos below the video player</string>
+    <string name="content_settings_title">Paramètres de contenu</string>
+    <string name="content_settings_header_display">Affichage</string>
+    <string name="content_settings_header_home_layout">Plan d\'accueil</string>
+    <string name="content_settings_home_layout_title">Mode d\'affichage d\'accueil</string>
+    <string name="content_settings_home_layout_subtitle">Choisissez le mode d\'affichage des vidéos sur l\'écran d\'accueil</string>
+    <string name="content_settings_layout_grid">Grille</string>
+    <string name="content_settings_layout_list">Liste</string>
+    <string name="content_settings_grid_size_title">Taille des éléments de la grille</string>
+    <string name="content_settings_grid_size_subtitle">Permet de régler la taille des pochettes d\'album et des fiches de contenu</string>
+    <string name="content_settings_grid_big_title">Grande</string>
+    <string name="content_settings_grid_big_desc">Miniatures plus grandes</string>
+    <string name="content_settings_grid_small_title">Petite</string>
+    <string name="content_settings_grid_small_desc">Affichage condensé</string>
+    <string name="content_settings_header_preview">Aperçu</string>
+    <string name="content_settings_preview_album_art">Aperçu de la pochette de l\'album</string>
+    <string name="content_settings_preview_big">Grande - miniature de 128 dp</string>
+    <string name="content_settings_preview_small">Petite - miniature de 104 dp</string>
+    <string name="content_settings_dynamic_components">Composants dynamiques</string>
+    <string name="settings_show_related_videos_title">Afficher les vidéos associées</string>
+    <string name="settings_show_related_videos_subtitle">Afficher les vidéos associées sous le lecteur vidéo</string>
     <!-- Home Feed -->
-    <string name="content_settings_header_home_feed">Home Feed</string>
-    <string name="content_settings_home_feed_title">Enable Home Feed</string>
-    <string name="content_settings_home_feed_subtitle">Show personalized video recommendations on the home screen</string>
-    <string name="content_settings_home_feed_disabled_title">Home Feed Disabled</string>
-    <string name="content_settings_home_feed_disabled_body">Personalized recommendations are turned off. You can re-enable this in Content Settings.</string>
+    <string name="content_settings_header_home_feed">Fil d\'actualité</string>
+    <string name="content_settings_home_feed_title">Activer le fil d\'actualité</string>
+    <string name="content_settings_home_feed_subtitle">Afficher des recommandations vidéo personnalisées sur l\'écran d\'accueil</string>
+    <string name="content_settings_home_feed_disabled_title">Fil d\'actualité désactivé</string>
+    <string name="content_settings_home_feed_disabled_body">Les recommandations personnalisées sont désactivées. Vous pouvez les réactiver dans les paramètres de contenu.</string>
     <!-- Video Player Related Card Style -->
     <string name="content_settings_header_player">Video Player</string>
     <string name="content_settings_related_card_style_title">Related Video Card Style</string>
